@@ -14,6 +14,7 @@ nmap <leader>l :TlistToggle<CR>
 filetype plugin on
 
 syntax on
+set hlsearch
 let g:rehash256 = 1
 set background=dark
 color tomorrow_night
