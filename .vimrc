@@ -1,5 +1,7 @@
 execute pathogen#infect('~/.vim/bundle/{}')
 
+set vb
+
 set number
 set ruler
 set showcmd
