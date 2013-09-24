@@ -1,7 +1,7 @@
 autocmd FileType python set ts=4 | set shiftwidth=4 | set expandtab |
   \ set autoindent | set softtabstop=4
 
-autocmd FileType make set noexpandtab | set tabstop=8 | set shiftwidth=8
+autocmd FileType make set noexpandtab | set tabstop=4 | set shiftwidth=4
 autocmd FileType text set tw=78
 
 " kill any trailing whitespace on save
